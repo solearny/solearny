@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height200&descAlign=20)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F0E052&height200&descAlign=20)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F0E052&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
+
 
 ### <div align="center">
 
@@ -10,6 +11,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFC939&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
  -->
 
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height200&descAlign=20)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
+-->
 
 
 <!-- - 📚 아직 배울게 많은 AI/웹 개발자입니다. -->
