@@ -1,23 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8339B3&height200&descAlign=20)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=9D4CCC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height200&descAlign=20)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
 
 ### <div align="center">
 
 ## 👋 About me
 
 <!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=8339B3&height200&descAlign=20)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=9D4CCC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
+-->
+
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC939&height200&descAlign=20)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFC939&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
  -->
 
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height200&descAlign=20)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
--->
-
-
-<!-- - 📚 아직 배울게 많은 AI/웹 개발자입니다. -->
+<!-- - 📚 아직 배울게 많은 ?? 입니다. -->
 
 - 🚀 사용자가 진정으로 필요로 하는 것이 무엇인지 고민합니다.
 - 😎 나만의 일을 찾기 위해 열심히 노력중입니다.
